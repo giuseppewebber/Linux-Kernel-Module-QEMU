@@ -205,3 +205,6 @@ Execute the test binary for your custom device:
 ```bash
 ./script/run_aarch64.sh
 ```
+
+## Authors
+Luca Bozza, Francesco Montagner, Lorenzo Deltetto, Giuseppe Webber
